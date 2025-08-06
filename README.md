@@ -27,7 +27,7 @@ Maternal healthcare faces critical gaps in early risk detection, postpartum ment
 
 WellNest addresses these challenges by combining:
 
-- **Prenatal risk prediction** from using body vitals to predict low, mid or high risk pregnancy
+- **A Gemma 3n-powered Prenatal risk prediction** from using body vitals to predict low, mid or high risk pregnancy
 - **Postpartum depression screening** through the use of EPDS score to ssess mental risk
 - A **Gemma 3n-powered virtual assistant Nestie** for empathetic interaction, mentall health help, advices and many more
 - **Community insights and personalized wellness nudges**
@@ -70,7 +70,7 @@ We used **Gemma 3n E2B**, fine-tuned via **Unsloth**, to power two key component
 2.  **AI Virtual Health Companion:** A second fine-tuned instance of Gemma 3n acts as an empathetic, conversational assistant. It understands natural language, detects emotional tone, screens for signs of postpartum depression, and offers supportive dialogue. When needed, it guides users to verified local and national mental health resources.
     
 
-By leveraging Gemma 3n’s multimodal understanding, on-device readiness, and compact architecture, WellNest demonstrates how AI can deliver real, private, and personalized care, even in low-resource or offline environments. This makes it uniquely suited for maternal health support at scale.
+By leveraging Gemma 3n’s multimodal understanding,off-line, on-device readiness, and compact architecture, WellNest demonstrates how AI can deliver real, private, and personalized care, even in low-resource or offline environments. This makes it uniquely suited for maternal health support at scale.
 
 ---
 
@@ -98,10 +98,14 @@ Fine-tuning was executed using **Unsloth** for memory-optimized training on limi
 
 ## 🔗 Links
 
-- **🎥 Video Demo:** [Insert YouTube/TikTok/X Link Here]  
-- **💻 GitHub Repository:** [Insert GitHub Repo URL Here]  
-- **🌐 Live Demo / App Download (Optional):** [Insert Public Demo/App URL Here]
-
+- **Video Demo:** [https://youtu.be/ADWLehSOrto]  
+- **GitHub Repository:** [https://github.com/TechBuz4/Gemma_competition_WellNest]  
+- **Live App github** [https://github.com/edidiongetetim/well-nest]
+ - **Live App Demo** [https://well-nest.lovable.app/]
+- **Hugging face / Gemma 3n Risk Predictor:** [https://huggingface.co/TechBuz/gemma-3N-risk_predictor]
+- **Hugging face / Gemma 3n Chatbot:** [https://huggingface.co/TechBuz/gemma_3n_chatbot_Nestie]
+- **Ollama/ Gemma 3n Risk Predictor:** [https://ollama.com/bosaosanwo/wellnest_risk_predictor]
+- **Ollama/ Gemma 3n chatbot:** [https://ollama.com/bosaosanwo/wellnest_gemma_3n_nestie]
 ---
 
 ## 📚 References
