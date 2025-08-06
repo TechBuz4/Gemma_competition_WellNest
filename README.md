@@ -95,20 +95,57 @@ Fine-tuning was executed using **Unsloth** for memory-optimized training on limi
 | Healthcare Data Access & Privacy  | Working with healthcare data was especially challenging due to HIPAA compliance, ethical concerns, and data scarcity. We overcame this by relying on publicly available, de-identified datasets, weak supervision, and synthetic data generation to augment our training corpora while maintaining privacy and safety standards.|
 
 ---
+Here’s a cleaned-up and well-formatted version of your project resource links, perfect for including in your **README**, **documentation**, or **competition submission**:
 
-## 🔗 Links
-
-- **Video Demo:** [https://youtu.be/ADWLehSOrto]  
-- **GitHub Repository:** [https://github.com/TechBuz4/Gemma_competition_WellNest]  
-- **Live App github** [https://github.com/edidiongetetim/well-nest]
- - **Live App Demo** [https://well-nest.lovable.app/]
-- **Hugging face / Gemma 3n Risk Predictor:** [https://huggingface.co/TechBuz/gemma-3N-risk_predictor]
-- **Hugging face / Gemma 3n Chatbot:** [https://huggingface.co/TechBuz/gemma_3n_chatbot_Nestie]
-- **Ollama/ Gemma 3n Risk Predictor:** [https://ollama.com/bosaosanwo/wellnest_risk_predictor]
-- **Ollama/ Gemma 3n chatbot:** [https://ollama.com/bosaosanwo/wellnest_gemma_3n_nestie]
 ---
 
-## 📚 References
+## 🔗 Project Resources
+
+### Demo Video
+
+[Watch the WellNest AI Demo](https://youtu.be/ADWLehSOrto)
+
+---
+
+### Repositories
+
+* **Main GitHub Repository:**
+  [TechBuz/Gemma\_competition\_WellNest](https://github.com/TechBuz4/Gemma_competition_WellNest)
+
+* **Live App Source Code:**
+  [edidiongetetim/well-nest](https://github.com/edidiongetetim/well-nest)
+
+---
+
+### Live Web App
+
+🔗 [Try the WellNest Web App](https://well-nest.lovable.app/)
+
+---
+
+### Hugging Face Models
+
+* **Risk Predictor (Gemma 3N):**
+  [TechBuz/gemma-3N-risk\_predictor](https://huggingface.co/TechBuz/gemma-3N-risk_predictor)
+
+* **Chatbot - Nestie (Gemma 3N):**
+  [TechBuz/gemma\_3n\_chatbot\_Nestie](https://huggingface.co/TechBuz/gemma_3n_chatbot_Nestie)
+
+---
+
+### Ollama Local Deployments
+
+* **Risk Predictor (4-bit Gemma 3N):**
+  [wellnest\_risk\_predictor](https://ollama.com/bosaosanwo/wellnest_risk_predictor)
+
+* **Chatbot - Nestie (4-bit Gemma 3N):**
+  [wellnest\_gemma\_3n\_nestie](https://ollama.com/bosaosanwo/wellnest_gemma_3n_nestie)
+
+---
+
+Let me know if you'd like this turned into a PDF one-pager, website section, or GitHub `README.md`.
+
+## References
 
 - Google Gemma 3n Documentation  
 - Unsloth Fine-Tuning Guide  
