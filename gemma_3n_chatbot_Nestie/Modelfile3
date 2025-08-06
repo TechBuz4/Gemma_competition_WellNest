@@ -1,0 +1,14 @@
+# OR use custom
+FROM C:\Users\bososanwo\.ollama\models\wellnest-13b-v1.5 (1).gguf
+
+# Optional parameters
+PARAMETER temperature 0.7
+PARAMETER top_p 0.9
+PARAMETER stop ["</s>"]
+
+TEMPLATE """<start_of_turn>user
+{{ .Prompt }}<end_of_turn>
+<start_of_turn>model
+"""
+
+SYSTEM "You are a helpful and knowledgeable pregnancy health assistant AI."
